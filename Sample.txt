@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-
-This Hello Wolrd
-This is Manoj
-=======
-Hello This is Manoj
->>>>>>> 5390db1dc306f0dd116d521426579733a20ce8fb
