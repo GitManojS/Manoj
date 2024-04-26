@@ -1,2 +1,1 @@
-Hello Wolrd
-This is Manoj
+Hello This is Manoj
